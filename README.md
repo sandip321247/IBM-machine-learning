@@ -1,1 +1,1 @@
-# IBM-machine-learning
+# IBM-data-science
